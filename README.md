@@ -16,4 +16,4 @@ A bookmark manager built with CSS, HTML & JavaScript and inspired by Safari's ne
 
 
 
-![cover-funcionality](cover-funcionality.gif)
+<!-- ![cover-funcionality](cover-funcionality.gif) -->
